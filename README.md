@@ -1,5 +1,7 @@
 This app is hosted online at https://3ogq5s-chad-kite.shinyapps.io/wealthComp-app/
 
+ * Last updated in 2023 *
+
 A billion is a very big number. So big, in fact, that it's just about impossible 
   to wrap your head around. That doesn't really matter most of the time, but when it
   comes to wealth inequality, understanding the sheer scale of that number matters. 
@@ -22,7 +24,7 @@ Also, just for fun, you can compare the world's current 25 richest people with
   compound interest for hundreds of years, as rich as a modern day Croesus?
  
  The answers await.
- 
+
  ___________________________________________________________________________
  
 Sources:
